@@ -8,7 +8,7 @@ There are several fields contain missing or inconsistent values.
 -	The users table has several incomplete values for birth_date, gender and language, which can really limit our demographic insight. 
 -	The transactions table has mixed formats for the quantity and sale fields (ex. “zero” vs. “0”), which I ended up standardizing as part of the cleaning.
 
-These issues are approachable with some data cleaning and didn’t bloack any analysis but resolving them in the future can help us get a better understanding of the data and therefore enhance reporting capabilities. 
+These issues are approachable with some data cleaning and didn’t block any analysis but resolving them in the future can help us get a better understanding of the data and therefore enhance reporting capabilities. 
 
 An interesting trend that I noticed was that our younger users are significantly more engaged, especially users from about 20-30. This could help with targeted campaigns. 
 
